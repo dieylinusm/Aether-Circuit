@@ -42,7 +42,7 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 ## Sponsor
 Support the development of Aether Circuit by becoming a GitHub Sponsor! Your contributions help power this unique puzzle adventure.
 
-[Become a Sponsor](https://github.com/sponsors/yourusername)
+[Become a Sponsor](https://github.com/sponsors/dieylinusm)
 
 ## License
 MIT License. See [LICENSE](LICENSE) for details.
